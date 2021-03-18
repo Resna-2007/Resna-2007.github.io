@@ -105,7 +105,7 @@
     <table border="0" width="20%" style="font-size:16px">
             <tbody>
               <tr>
-                <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">Synthesized Song with Synthesized Song with Model 2</th></tr>
+                <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">Synthesized Song with Model 2</th></tr>
               <tr>
                 <td><audio controls="" preload="none" style="height:30px">
                   <source src="https://resna-2007.github.io/T2S/Singer_1/Song2.wav" type="audio/mpeg">audio not supported</audio>
@@ -200,7 +200,7 @@
     <table border="0" width="20%" style="font-size:16px">
             <tbody>
               <tr>
-                <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">Synthesized Song with Synthesized Song with Model 2</th></tr>
+                <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">Synthesized Song with Model 2</th></tr>
               <tr>
                 <td><audio controls="" preload="none" style="height:30px">
                   <source src="https://resna-2007.github.io/T2S/Singer_2/Song2.wav" type="audio/mpeg">audio not supported</audio>
