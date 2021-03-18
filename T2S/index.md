@@ -34,29 +34,35 @@
     <fieldset id="fs-frm-inputs" style="border:0px solid black;">
       <label for="email-address">Email Address</label>
       <input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required=""><br><br>
-      <p>Listen to the original audio files of 5 different singers and provide feedback on the synthesized waveforms produced using wavenet and WAVEGLOW vocoders</p>
+      <p>Listen to the original audio files of 5 different singers and provide feedback on the synthesized waveforms produced using two systems</p>
   <div class='grrp'>
-    <h3>Speaker1</h3>
+    <h3>Singer1</h3>
         <table border="0" width="20%" style="font-size:16px">
           <tbody><tr><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
-          Speaker Ground Truth</th></tr>
+          Singer Ground Truth</th></tr>
           <tr><td><audio controls="" preload="none" style="height:30px">
-          <source src="https://sachp1.github.io/speaker2/will_smith_orig.mp3" type="audio/mpeg">audio not supported</audio>
+          <source src="https://resna-2007.github.io/T2S/Singer_1/ADIZ.wav" type="audio/mpeg">audio not supported</audio>
           </td></tr></tbody></table>
           <table style="width:100%; font-size:12px; text-align: left;">
           <tbody><tr>
           <th>Sentence</th>
-          <th>"An intelligent city is an urban area that uses different types of electronic internet of things sensors"</th>
+          <th>"Edelweiss, Edelweiss 
+          Every morning you greet me
+          Small and white clean and bright
+          You look happy to meet me
+          Blossom of snow, may you bloom and grow
+          Bloom and grow forever
+          Edelweiss, Edelweiss"</th>
           </tr>
           </tbody></table> <br>
           <table border="0" width="20%" style="font-size:16px">
               <tbody>
                 <tr>
                 <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
-                  Wavenet vocoder</th></tr>
+                 Model 1</th></tr>
               <tr>
               <td>
-              <audio controls="" preload="none" style="height:30px"><source src="https://sachp1.github.io/speaker2/wnsamples/will_smith.mp3" type="audio/mpeg">audio not supported</audio>
+              <audio controls="" preload="none" style="height:30px"><source src="https://resna-2007.github.io/T2S/Singer_1/Song1.wav" type="audio/mpeg">audio not supported</audio>
                 </td></tr>
               </tbody></table>
               <label for="sim_n">How well does Wavenet resemble Ground truth</label>
@@ -89,10 +95,10 @@
     <table border="0" width="20%" style="font-size:16px">
             <tbody>
               <tr>
-                <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">WAVEGLOW vocoder</th></tr>
+                <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">Model 2</th></tr>
               <tr>
                 <td><audio controls="" preload="none" style="height:30px">
-                  <source src="https://sachp1.github.io/speaker2/wgsamples/will_smith.mp3" type="audio/mpeg">audio not supported</audio>
+                  <source src="https://resna-2007.github.io/T2S/Singer_1/Song2.wav" type="audio/mpeg">audio not supported</audio>
                   </td></tr>
               </tbody>
             </table>
