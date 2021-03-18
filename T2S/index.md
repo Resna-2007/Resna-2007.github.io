@@ -38,22 +38,10 @@
   <div class='grrp'>
    <table border="0" width="20%" style="font-size:16px">
           <tbody><tr><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
-          Target Melody</th> 
-          </tr>
+          Target Melody</th></tr>
           <tr><td><audio controls="" preload="none" style="height:30px">
           <source src="https://resna-2007.github.io/T2S/Singer_1/ADIZ.wav" type="audio/mpeg">audio not supported</audio>
-          </td></tr></tbody>
-           <tbody><tr>
-          <th>Lyrics</th>
-          <th>"Edelweiss, Edelweiss 
-          Every morning you greet me
-          Small and white clean and bright
-          You look happy to meet me
-          Blossom of snow, may you bloom and grow
-          Bloom and grow forever
-          Edelweiss, Edelweiss"</th>
-          </tr>
-          </tbody></table>
+          </td></tr></tbody></table>
     <h3>Singer1</h3>
         <table border="0" width="20%" style="font-size:16px">
           <tbody><tr><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
