@@ -35,13 +35,15 @@
       <label for="email-address">Email Address</label>
       <input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required=""><br><br>
       <p>Listen to the original audio files of 5 different singers and provide feedback on the synthesized waveforms produced using two systems</p>
-  <div class='grrp'>
-   <table border="0" width="20%" style="font-size:16px">
+      <div class='grrp'>
+       <table border="0" width="20%" style="font-size:16px">
           <tbody><tr><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
           Target Melody</th></tr>
           <tr><td><audio controls="" preload="none" style="height:30px">
           <source src="https://resna-2007.github.io/T2S/Singer_1/ADIZ.wav" type="audio/mpeg">audio not supported</audio>
           </td></tr></tbody></table>
+      </div>
+  <div class='grrp'>  
     <h3>Singer1</h3>
         <table border="0" width="20%" style="font-size:16px">
           <tbody><tr><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
