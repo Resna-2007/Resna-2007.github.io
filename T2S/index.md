@@ -84,7 +84,7 @@
                 <option value="2">Fair</option>
                 <option value="1">Poor</option>
               </select><br>
-     <label for="synth_phoneme">How would you rate the synthesized audio (is the sentence fully reconstructed)<br></label>
+     <label for="synth_phoneme">How would you rate the phoneme quality of synthesized audio<br></label>
               <select name="synth_phoneme" id="synth_phoneme" required="">
                 <option value="" selected disabled>Choose</option>
                 <option value="5">Excellent</option>
@@ -130,7 +130,7 @@
                 <option value="2">Fair</option>
                 <option value="1">Poor</option>
               </select><br>
-     <label for="synth_phoneme_t2s">How would you rate the synthesized audio (is the sentence fully reconstructed)<br></label>
+     <label for="synth_phoneme_t2s">How would you rate the phoneme quality of synthesized audio<br></label>
               <select name="synth_phoneme_t2s" id="synth_phoneme_t2s" required="">
                 <option value="" selected disabled>Choose</option>
                 <option value="5">Excellent</option>
@@ -179,7 +179,7 @@
                 <option value="2">Fair</option>
                 <option value="1">Poor</option>
               </select><br>
-     <label for="synth_phoneme">How would you rate the synthesized audio (is the sentence fully reconstructed)<br></label>
+     <label for="synth_phoneme">How would you rate the phoneme quality of synthesized audio<br></label>
               <select name="synth_phoneme" id="synth_phoneme" required="">
                 <option value="" selected disabled>Choose</option>
                 <option value="5">Excellent</option>
@@ -225,7 +225,7 @@
                 <option value="2">Fair</option>
                 <option value="1">Poor</option>
               </select><br>
-     <label for="synth_phoneme_t2s">How would you rate the synthesized audio (is the sentence fully reconstructed)<br></label>
+     <label for="synth_phoneme_t2s">How would you rate the phoneme quality of synthesized audio<br></label>
               <select name="synth_phoneme_t2s" id="synth_phoneme_t2s" required="">
                 <option value="" selected disabled>Choose</option>
                 <option value="5">Excellent</option>
@@ -274,7 +274,7 @@
                 <option value="2">Fair</option>
                 <option value="1">Poor</option>
               </select><br>
-     <label for="synth_phoneme">How would you rate the synthesized audio (is the sentence fully reconstructed)<br></label>
+     <label for="synth_phoneme">How would you rate the phoneme quality of synthesized audio<br></label>
               <select name="synth_phoneme" id="synth_phoneme" required="">
                 <option value="" selected disabled>Choose</option>
                 <option value="5">Excellent</option>
@@ -320,7 +320,7 @@
                 <option value="2">Fair</option>
                 <option value="1">Poor</option>
               </select><br>
-     <label for="synth_phoneme_t2s">How would you rate the synthesized audio (is the sentence fully reconstructed)<br></label>
+     <label for="synth_phoneme_t2s">How would you rate the phoneme quality of synthesized audio<br></label>
               <select name="synth_phoneme_t2s" id="synth_phoneme_t2s" required="">
                 <option value="" selected disabled>Choose</option>
                 <option value="5">Excellent</option>
@@ -369,7 +369,7 @@
                 <option value="2">Fair</option>
                 <option value="1">Poor</option>
               </select><br>
-     <label for="synth_phoneme">How would you rate the synthesized audio (is the sentence fully reconstructed)<br></label>
+     <label for="synth_phoneme">How would you rate the phoneme quality of synthesized audio<br></label>
               <select name="synth_phoneme" id="synth_phoneme" required="">
                 <option value="" selected disabled>Choose</option>
                 <option value="5">Excellent</option>
@@ -415,7 +415,7 @@
                 <option value="2">Fair</option>
                 <option value="1">Poor</option>
               </select><br>
-     <label for="synth_phoneme_t2s">How would you rate the synthesized audio (is the sentence fully reconstructed)<br></label>
+     <label for="synth_phoneme_t2s">How would you rate the phoneme quality of synthesized audio<br></label>
               <select name="synth_phoneme_t2s" id="synth_phoneme_t2s" required="">
                 <option value="" selected disabled>Choose</option>
                 <option value="5">Excellent</option>
@@ -464,7 +464,7 @@
                 <option value="2">Fair</option>
                 <option value="1">Poor</option>
               </select><br>
-     <label for="synth_phoneme">How would you rate the synthesized audio (is the sentence fully reconstructed)<br></label>
+     <label for="synth_phoneme">How would you rate the phoneme quality of synthesized audio<br></label>
               <select name="synth_phoneme" id="synth_phoneme" required="">
                 <option value="" selected disabled>Choose</option>
                 <option value="5">Excellent</option>
@@ -510,7 +510,7 @@
                 <option value="2">Fair</option>
                 <option value="1">Poor</option>
               </select><br>
-     <label for="synth_phoneme_t2s">How would you rate the synthesized audio (is the sentence fully reconstructed)<br></label>
+     <label for="synth_phoneme_t2s">How would you rate the phoneme quality of synthesized audio<br></label>
               <select name="synth_phoneme_t2s" id="synth_phoneme_t2s" required="">
                 <option value="" selected disabled>Choose</option>
                 <option value="5">Excellent</option>
@@ -559,7 +559,7 @@
                 <option value="2">Fair</option>
                 <option value="1">Poor</option>
               </select><br>
-     <label for="synth_phoneme">How would you rate the synthesized audio (is the sentence fully reconstructed)<br></label>
+     <label for="synth_phoneme">How would you rate the phoneme quality of synthesized audio<br></label>
               <select name="synth_phoneme" id="synth_phoneme" required="">
                 <option value="" selected disabled>Choose</option>
                 <option value="5">Excellent</option>
@@ -605,7 +605,7 @@
                 <option value="2">Fair</option>
                 <option value="1">Poor</option>
               </select><br>
-     <label for="synth_phoneme_t2s">How would you rate the synthesized audio (is the sentence fully reconstructed)<br></label>
+     <label for="synth_phoneme_t2s">How would you rate the phoneme quality of synthesized audio<br></label>
               <select name="synth_phoneme_t2s" id="synth_phoneme_t2s" required="">
                 <option value="" selected disabled>Choose</option>
                 <option value="5">Excellent</option>
