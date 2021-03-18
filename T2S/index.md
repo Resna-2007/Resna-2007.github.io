@@ -1,7 +1,7 @@
 ###### Please enter your email ID and rate the generated audio files
 <head>
     <link rel="stylesheet" href="w3.css">
-    <title>Voice cloning MOS</title>
+    <title>Text To Singing MOS</title>
     <style>
          h1 {
             text-align: center;
@@ -30,11 +30,11 @@
 </head>
 <body>
 <div class="grrp1">
-  <form id="fs-frm" name="survey-form-test" accept-charset="utf-8" action="https://formspree.io/sachinprakash313@gmail.com" method="post">
+  <form id="fs-frm" name="survey-form-test" accept-charset="utf-8" action="https://formspree.io/f/xaylrgvl" method="post">
     <fieldset id="fs-frm-inputs" style="border:0px solid black;">
       <label for="email-address">Email Address</label>
       <input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required=""><br><br>
-      <p>Listen to the original audio files of 20 different speakers and provide feedback on the synthesized waveforms produced using wavenet and WAVEGLOW vocoders</p>
+      <p>Listen to the original audio files of 5 different singers and provide feedback on the synthesized waveforms produced using wavenet and WAVEGLOW vocoders</p>
   <div class='grrp'>
     <h3>Speaker1</h3>
         <table border="0" width="20%" style="font-size:16px">
@@ -125,4 +125,3 @@
               </select><br>
     </div>
     <br><br>
-	<button type="submit">Send Responses</button>
